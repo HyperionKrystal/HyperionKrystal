@@ -1,5 +1,13 @@
-## Hi there 👋
- I'm currently working on learning software engineering with CoGrammer!
+## Hi there peeps! 👋
+
+🌱 I'm currently working on learning **<ins> software engineering</ins>** with **<ins>CoGrammer</ins>** and **<ins> HTML & CSS </ins>** with **<ins> FreeCodeCamp </ins>**!
+
+😄 Pronouns: She/Her They/Them <sub> Pretty much call me anything; Just don't call me late for tea! </sub>
+
+⚡ Fun Fact: I own a horse with my same name and spelled the same way! <sub> Isn't fate a funny thing!</sub>
+
+💬 Ask me about anything Equine or Art related as i'm a bit of a noob when it comes to this whole coding melarky , but I'm expanding my Jack-Of-All-Trades knowlegde!
+
 <!--
 **HyperionKrystal/HyperionKrystal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
