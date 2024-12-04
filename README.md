@@ -4,7 +4,7 @@
 
 ## Artist | Gamer | Carer | Fledgling Coder
 
-My name is Krystal Dales and i'm a fledgling coder with a background in the equine and art industry! My current life circumstances has inspired a change in career direction as both of those industries don't provide me with long term career prospects and I have been interested in learning to code ever since the age of 12 and getting into gaming (Would love to be an indie game developer someday!), but my parents non-techical background and caring duties stopped me from learning when I was younger. However I recently got a kick up the bum and decided that the next best time to learn would be now; so here I am taking a offical DoE Course and also learning using free resources as well.
+My name is Krystal Dales and i'm a fledgling coder with a background in the equine and art industry! My current life circumstances has inspired a change in career direction as both of those industries don't provide me with long term career prospects and I have been interested in learning to code ever since the age of 12 and getting into gaming (Would love to be an indie game developer someday!), but my parents non-techical background and caring duties stopped me from learning when I was younger. However I recently got a kick up the bum and decided that the next best time to learn would be now; so here I am taking a official DoE Course and also learning using free resources as well.
 
 Below I have included the some links to my other endevours to fill this out a little until I have some proper projects to add and as this is also a task for my course to just have a fiddle with the styling as well!
 
