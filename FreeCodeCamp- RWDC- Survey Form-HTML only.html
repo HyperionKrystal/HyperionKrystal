@@ -1,0 +1,44 @@
+<!--Emmet(! + Tab = Document template)-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>Survey Form</title>
+    <style>
+    </style>
+</head>
+<body>
+    <h1 style="font-family:'Courier New', Courier, monospace;" id="title">Survey Form For Horse Lovers</h1>
+    <p id="description"> Thank you for taking this survey!
+        (This is my practice survey form for free coding camp)</p>
+    <form id="survey-form">
+    <label id="name-label">Name:</label>  <input id="name" type="text" placeholder="Enter your name here">
+    <label id="email-label">Email:</label><input id="email" type="email" placeholder="Enter your email here">
+   <label id="number-label">Age:</label> <input id="number" type="number" min="10" max="99" placeholder="Enter your age here">
+   <label for="Coat">What is your favourite coat colour?</label>
+   <select id="dropdown" name="Coat">
+    <option value="Chestnut">Chestnut</option>
+    <option value="Bay">Bay</option>
+    <option value="Grey">Grey</option>
+    <option value="Black">Black</option>
+   </select>
+   <p>Do you own a horse?</p>
+   <label for="Yes">Yes</label>
+   <input id="Yes" type="radio">
+   <label for="No">No</label>
+   <input id="No" type="radio">
+   <p>What is your prefered gender of horse?</p>
+   <label for="mare">Mare</label>
+   <input id="mare" value="mare" type="checkbox">
+   <label for="gelding">Gelding</label>
+   <input id="gelding" value="gelding" type="checkbox">
+   <label for="stallion">Stallion</label>
+   <input id="stallion" value="stallion" type="checkbox">
+   <p>Why do you love horses?</p>
+   <textarea id="comments" placeholder="Tell us why you love horses here!"></textarea>
+<input id="submit" type="submit">
+
+    </form>
+</body>
+</html>
