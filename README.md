@@ -17,12 +17,16 @@ Below I have included the some links to my other endeavours to fill this out a l
 🔭 I’m currently working on **<ins>Building a tribute page</ins>** for **<ins>FreeCodeCamp's Responsive Web Design Course.</ins>**
 
 <img>![141AC626-77D8-4626-BC63-495A04750AD8](https://github.com/user-attachments/assets/a4bc94d1-8709-47e9-bbfb-7cc0362ded7e)</img>
-## ---------------------------------------||| [Krystal Dales Art ](https://www.facebook.com/KrystalDalesArtAndPhotography/)|||-----------------------------------------
+## -----||| [Krystal Dales Art ](https://www.facebook.com/KrystalDalesArtAndPhotography/)|||------
 
-<img>![Double (6)](https://github.com/user-attachments/assets/487ee2dd-c322-47ce-b2c2-b74e98f54fcf)</img><img>![Untitled design (10)](https://github.com/user-attachments/assets/79b0013b-0205-40d5-b33b-47077d2321de)
+<img>![Double (6)](https://github.com/user-attachments/assets/487ee2dd-c322-47ce-b2c2-b74e98f54fcf)</img>
+
+## -----||| [Double_K_Equestrian](https://www.instagram.com/double_k_equestrian/) |||-----
+
+<img>![Untitled design (10)](https://github.com/user-attachments/assets/79b0013b-0205-40d5-b33b-47077d2321de)
 </img>
  
-##  -----------------------||| [Double_K_Equestrian](https://www.instagram.com/double_k_equestrian/) |  [EquiSphere Web Design](https://www.facebook.com/profile.php?id=61568243266118) |||-----------------------
+## -----||| [EquiSphere Web Design](https://www.facebook.com/profile.php?id=61568243266118) |||-----
 
 
 </div>
